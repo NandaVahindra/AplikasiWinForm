@@ -1,0 +1,10 @@
+C:\Users\Nandavahindra\source\repos\Latihan 1 PBKK\Latihan 1 PBKK\bin\Debug\Latihan 1 PBKK.exe.config
+C:\Users\Nandavahindra\source\repos\Latihan 1 PBKK\Latihan 1 PBKK\bin\Debug\Latihan 1 PBKK.exe
+C:\Users\Nandavahindra\source\repos\Latihan 1 PBKK\Latihan 1 PBKK\bin\Debug\Latihan 1 PBKK.pdb
+C:\Users\Nandavahindra\source\repos\Latihan 1 PBKK\Latihan 1 PBKK\obj\Debug\Latihan 1 PBKK.csproj.AssemblyReference.cache
+C:\Users\Nandavahindra\source\repos\Latihan 1 PBKK\Latihan 1 PBKK\obj\Debug\Latihan_1_PBKK.Form1.resources
+C:\Users\Nandavahindra\source\repos\Latihan 1 PBKK\Latihan 1 PBKK\obj\Debug\Latihan_1_PBKK.Properties.Resources.resources
+C:\Users\Nandavahindra\source\repos\Latihan 1 PBKK\Latihan 1 PBKK\obj\Debug\Latihan 1 PBKK.csproj.GenerateResource.cache
+C:\Users\Nandavahindra\source\repos\Latihan 1 PBKK\Latihan 1 PBKK\obj\Debug\Latihan 1 PBKK.csproj.CoreCompileInputs.cache
+C:\Users\Nandavahindra\source\repos\Latihan 1 PBKK\Latihan 1 PBKK\obj\Debug\Latihan 1 PBKK.exe
+C:\Users\Nandavahindra\source\repos\Latihan 1 PBKK\Latihan 1 PBKK\obj\Debug\Latihan 1 PBKK.pdb
